@@ -1,0 +1,7 @@
+INSERT INTO trainee (id, name) VALUES (1, 'John')
+INSERT INTO trainee (id, name) VALUES (2, 'Sharm')
+INSERT INTO trainee (id, name) VALUES (3, 'Daniel')
+INSERT INTO Subject (id, subjectName, grade,trainee_id) VALUES (1, 'Aava','A', 1)
+INSERT INTO Subject (id, subjectName, grade,trainee_id) VALUES (2, 'Database','A', 1)
+INSERT INTO Subject (id, subjectName, grade,trainee_id) VALUES (3, 'Java','A', 3)
+INSERT INTO Subject (id, subjectName, grade,trainee_id) VALUES (4, 'Database','B', 3)
